@@ -26,4 +26,4 @@ def import_from_excel(file_path):
 
 if __name__ == "__main__":
     # Укажите путь к вашему файлу
-    import_from_excel('D:\\Documents\\python_projects\\test_learning\\RecipeSite\\РК.xlsx')
+    import_from_excel('/home/dgtr/Документы/python_projects/RecipeSite/РК.xlsx')
